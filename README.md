@@ -214,10 +214,12 @@ ADDCOLUMNS(
 ## 📸 Screenshots
 
 ### Page 1 — The Revenue Story
-![Revenue Story](screenshots/rcm_revenue.png)
+
+![Revenue Story](images/rcm_revenue.png)
 
 ### Page 2 — The Risk Story
-![Risk Story](screenshots/rcm_risk.png)
+
+![Risk Story](images/rcm_risk.png)
 
 ---
 
